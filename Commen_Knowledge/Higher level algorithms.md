@@ -4,7 +4,7 @@
 
 ### 1.The basic graph about the merge algorithm
 
-![](/img/Merge_sort_animation2.gif)
+![hello][image-1]
 
 
 
@@ -66,3 +66,4 @@ void mergeSort(T arr[],int n){
 
 
 
+[image-1]:	https://ws3.sinaimg.cn/large/006tKfTcly1fl0m6tymklg307s06l0st.gif "pic"
