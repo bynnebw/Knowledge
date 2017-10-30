@@ -6,7 +6,7 @@
 
 
 
-![Merge\_sort\_animation2](\image\Merge\_sort\_animation2.gif)
+![Merge\_sort\_animation2][image-1]
 
 
 
@@ -69,3 +69,4 @@ void mergeSort(T arr[],int n){
 
 
 
+[image-1]:	Knowledge/Commen_Knowledge/img/%5CMerge%5C_sort%5C_animation2.gif
