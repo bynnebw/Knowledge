@@ -4,7 +4,7 @@
 
 ### 1.The basic graph about the merge algorithm
 
-![](\img\Merge_sort_animation2.gif)
+![](/img/Merge_sort_animation2.gif)
 
 
 
