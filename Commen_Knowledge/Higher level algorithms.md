@@ -4,9 +4,7 @@
 
 ### 1.The basic graph about the merge algorithm
 
-
-
-![Merge\_sort\_animation2][image-1]
+![](\img\Merge_sort_animation2.gif)
 
 
 
@@ -68,5 +66,3 @@ void mergeSort(T arr[],int n){
 
 
 
-
-[image-1]:	Knowledge/Commen_Knowledge/img/%5CMerge%5C_sort%5C_animation2.gif
